@@ -1,11 +1,11 @@
 # Terms of Service
 
-**ReceiptVault**
+**ReceiptVault AI**
 **Last Updated:** April 5, 2026
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using ReceiptVault ("the app"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the app.
+By downloading, installing, or using ReceiptVault AI ("the app"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the app.
 
 ## 2. Description of Service
 

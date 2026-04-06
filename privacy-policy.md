@@ -1,11 +1,11 @@
 # Privacy Policy
 
-**ReceiptVault**
+**ReceiptVault AI**
 **Last Updated:** April 5, 2026
 
 ## Introduction
 
-ReceiptVault ("we", "our", "the app") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+ReceiptVault AI ("we", "our", "the app") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
 ## Information We Collect
 

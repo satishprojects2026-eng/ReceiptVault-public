@@ -1,4 +1,4 @@
-# ReceiptVault
+# ReceiptVault AI
 
 **Expert Receipt Processing & Audit**
 
