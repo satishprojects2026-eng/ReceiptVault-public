@@ -9,12 +9,14 @@ By downloading, installing, or using ReceiptVault AI ("the app"), you agree to b
 
 ## 2. Description of Service
 
-ReceiptVault is a receipt management application that allows you to:
+ReceiptVault AI is a receipt management application that allows you to:
 - Scan paper receipts using your device camera
 - Import digital receipts (PDF/image files)
 - Record receipt details via voice
+- Import bank and credit card statement PDFs
 - Organize and track spending by vendor
 - Search and review receipt history
+- View line item details for each receipt
 
 ## 3. Account Registration
 

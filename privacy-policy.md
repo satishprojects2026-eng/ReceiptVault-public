@@ -28,6 +28,13 @@ ReceiptVault AI ("we", "our", "the app") is committed to protecting your privacy
 - **OCR (Optical Character Recognition):** Receipt images are processed entirely on your device using Apple Vision framework. No images are sent to external servers for text recognition.
 - **Voice Recognition:** Speech-to-text processing occurs on your device using Apple Speech framework. Audio is not stored or transmitted.
 
+### Bank & Credit Card Statement Processing
+- When you import a bank or credit card statement PDF, we extract text from the PDF to identify transactions.
+- We ONLY extract and store: vendor/merchant names, transaction dates, and transaction amounts.
+- We DO NOT store, transmit, or retain: account numbers, card numbers, routing numbers, SSN, or any sensitive financial identifiers.
+- The original statement PDF is NOT stored — only the extracted transaction data is saved.
+- Statement text is sent to our AI service (Anthropic Claude) for parsing over encrypted HTTPS.
+
 ### Cloud Storage
 - Receipt data (text, amounts, dates) is stored in our secure cloud database (Supabase) to enable access across your devices.
 - Receipt images are stored in secure cloud storage with signed, time-limited access URLs.
